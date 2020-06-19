@@ -16,7 +16,7 @@
 
 * Deep Transfer Learning for Few-Shot SAR Image Classification, Remote Sensing, 2019.
 
-* Sar image classification using few-shot cross-domain transfer learning, CVPR, 2019.
+* Sar image classification using few-shot cross-domain transfer learning, CVPR Workshop, 2019.
 
 * Deep few-shot learning for hyperspectral image classification, TGRS, 2018.
 
