@@ -1,4 +1,4 @@
-# Few-shot-Learning-Meta-Learning-on-Remote-Sensing-Papers
+# Papers about Few-shot Learning / Meta-Learning on Remote Sensing
 
 ---
 ## Scene Classification:
